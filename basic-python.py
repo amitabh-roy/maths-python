@@ -17,4 +17,3 @@ print(stats.variance(numbers))  # Variance of the numbers
 print(stats.pstdev(numbers))  # Population standard deviation
 
 
-
